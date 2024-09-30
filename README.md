@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CosmicEmm
+- 👋 Hi, I’m Muhammad
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to break into the tech industry
