@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Muhammad
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Python
-- 💞️ I’m looking to break into the tech industry in one year
+- 🤖 I’m looking to break into the tech industry in one year
 - 📫 How to reach me: muhammadmalik5303@gmail.com
 - 😄 Pronouns: he/him
 
