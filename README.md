@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python
 - 🤖 I’m looking to break into the tech industry in one year
 - 📫 How to reach me: muhammadmalik5303@gmail.com
-- 🏢 Founder: Philomath AI
+- 🏢 Founder: [Philomath AI](https://www.linkedin.com/company/philomath-ai/)
 - 😄 Pronouns: he/him
 
 <!---
