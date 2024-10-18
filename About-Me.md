@@ -1,4 +1,4 @@
-![GitHub](https://github.com/user-attachments/assets/8713697f-acf7-4990-9c74-be7b6d076430)
+![Uploading GitHub Grey.png…]()
 - 👋 Hi, I’m Muhammad
 - 👀 I’m interested in Artificial Intelligence and Machine Learning
 - 🌱 I’m currently learning Python
