@@ -1,4 +1,4 @@
-![GitHub Grey](https://github.com/user-attachments/assets/3ce99202-3e65-4bb4-8d48-ca17502568e5)
+![Philomath AI GitHub](https://github.com/user-attachments/assets/1115ed4d-3ba2-467a-9f08-235c3aaeadfe)
 - 👋 Hi, I’m Muhammad.
 - 👀 I’m interested in Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning Python.
