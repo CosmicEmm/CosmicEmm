@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Muhammad.
 - 👀 I’m interested in Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently learning Python libraries for data science and machine learning.
-- 🤖 I’m looking to break into the tech industry in one year.
+- 🤖 I’m looking to become a self-taught AI Engineer.
 - 📫 How to reach me: emmmuhammad666@gmail.com
 - 🏢 Founder: [Philomath AI](https://www.linkedin.com/company/philomath-ai/)
 - 😄 Pronouns: he/him
