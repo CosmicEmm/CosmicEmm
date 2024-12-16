@@ -1,6 +1,6 @@
 ![Philomath AI GitHub](https://github.com/user-attachments/assets/1115ed4d-3ba2-467a-9f08-235c3aaeadfe)
 - 👋 Hi, I’m Muhammad.
-- 👀 I’m interested in AL/ML.
+- 👀 I’m interested in Artificial Intelligence/Machine Learning.
 - 🌱 I’m currently doing the Machine Learning Specialization by Andrew Ng.
 - 🤖 I’m looking to become a self-taught AI Engineer.
 - 📫 How to reach me: emmmuhammad666@gmail.com
