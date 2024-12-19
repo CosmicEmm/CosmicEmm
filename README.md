@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Muhammad.
 - 👀 I’m interested in Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently doing the Machine Learning Specialization by Andrew Ng.
-- 🤖 I’m looking to become a self-taught AI Engineer.
+- 🤖 I’m looking to become a self-taught AI/ML Engineer.
 - 📫 How to reach me: emmmuhammad666@gmail.com
 - 🏢 Founder: [Philomath AI](https://www.linkedin.com/company/philomath-ai/)
 - 😄 Pronouns: he/him
