@@ -1,7 +1,7 @@
 ![Philomath AI GitHub](https://github.com/user-attachments/assets/1115ed4d-3ba2-467a-9f08-235c3aaeadfe)
 - 👋 Hi, I’m Muhammad.
 - 👀 I’m interested in Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently reading Python for Data Analysis.
+- 🌱 I’m currently learning how to run AI Models locally on my system.
 - 🤖 I’m looking to become a self-taught AI/ML Engineer.
 - 📫 How to reach me: emmmuhammad666@gmail.com
 - 🏢 Founder: [Philomath AI](https://www.linkedin.com/company/philomath-ai/)
