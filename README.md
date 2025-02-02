@@ -3,7 +3,7 @@
 - 👀 I’m interested in Artificial Intelligence and Machine Learning.
 - 🌱 I’m currently self-studying Artificial Intelligence/Machine Learning.
 - 🤖 I’m looking to become a self-taught AI/ML Engineer.
-- 📫 How to reach me: emmmuhammad666@gmail.com
+- 📫 How to reach me: muhammadmalik5303@gmail.com
 - 🏢 Founder: [Philomath AI](https://www.linkedin.com/company/philomath-ai/)
 - 😄 Pronouns: he/him
 
