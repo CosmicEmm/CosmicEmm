@@ -2,7 +2,7 @@
 - 👋 Hi, I’m Muhammad.
 - 👀 I’m interested in AI/ML.
 - 🌱 I’m currently taking an online course on Deep Learning.
-- 🤖 I’m looking to become a self-taught AI/ML Engineer.
+- 🤖 I’m looking to become a self-taught AI/ML Expert.
 - 📫 How to reach me: muhammadmalik5303@gmail.com
 - 🏢 Founder: [Philomath AI](https://www.linkedin.com/company/philomath-ai/)
 - 😄 Pronouns: he/him
