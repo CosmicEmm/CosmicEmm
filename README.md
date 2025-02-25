@@ -1,6 +1,6 @@
 ![Philomath AI GitHub](https://github.com/user-attachments/assets/1115ed4d-3ba2-467a-9f08-235c3aaeadfe)
 - 👋 Hi, I’m Muhammad.
-- 👀 I’m interested in AI.
+- 👀 I’m interested in Artificial Intelligence.
 - 🌱 I’m currently taking an online course on Deep Learning.
 - 🤖 I’m looking to become a self-taught AI/ML Expert.
 - 📫 How to reach me: muhammadmalik5303@gmail.com
